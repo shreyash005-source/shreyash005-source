@@ -13,10 +13,10 @@
 ---
 
 ## 🚀 Tech Stack
-- 💻 Languages: Python, JavaScript
-- ⚙️ Tools: Docker, Git, Linux
+- 💻 Languages: Python, JavaScript , Bash scripting
+- ⚙️ Tools: Docker, Git, Linux , 
 - 🌐 Web: React, Flask
-- ☁️ Cloud: AWS (EC2 basics)
+- ☁️ Cloud: AWS (EC2 basics) ,IAM , S3 storage
 - 
 ## 🚀 Tech Stack
 
