@@ -5,10 +5,10 @@
 
 ## 🔥 About Me
 - 🎓 IT Student (Final Year)
-- 💡 Interested in DevOps & Cloud
+- 💡 Interested in Python,DATA,DevOps & Cloud
 - 🐳 Learning Docker, AWS, CI/CD
 - 💻 Working on ML + Web Projects
-- 📈 Goal: Become DevOps Engineer
+- 
 
 ---
 
